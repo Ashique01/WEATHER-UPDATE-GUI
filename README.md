@@ -45,7 +45,7 @@ Weather Kakku is a simple weather application built using PyQt5 and the OpenWeat
 
 ## Screenshots
 
-![Screenshot 1](Screenshot1.png)
+![Screenshot 1](screenshot1.png)
 ![Screenshot 2](Screenshot2.png)
 
 ---
